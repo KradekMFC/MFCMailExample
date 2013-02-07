@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFCMailExample", "MFCMailExample\MFCMailExample.csproj", "{0CD53278-8768-4799-A86D-BDD276B1EA02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraper", "..\WebScraper\WebScraper\WebScraper.csproj", "{8759DC49-8381-40F1-8DEB-AA81CAF21E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CD53278-8768-4799-A86D-BDD276B1EA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CD53278-8768-4799-A86D-BDD276B1EA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CD53278-8768-4799-A86D-BDD276B1EA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CD53278-8768-4799-A86D-BDD276B1EA02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8759DC49-8381-40F1-8DEB-AA81CAF21E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8759DC49-8381-40F1-8DEB-AA81CAF21E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8759DC49-8381-40F1-8DEB-AA81CAF21E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8759DC49-8381-40F1-8DEB-AA81CAF21E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
